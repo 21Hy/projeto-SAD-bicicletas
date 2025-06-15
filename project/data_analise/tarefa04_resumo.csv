@@ -1,0 +1,15 @@
+"skim_type","skim_variable","n_missing","complete_rate","Date.min","Date.max","Date.median","Date.n_unique","character.min","character.max","character.empty","character.n_unique","character.whitespace","factor.ordered","factor.n_unique","factor.top_counts","numeric.mean","numeric.sd","numeric.p0","numeric.p25","numeric.p50","numeric.p75","numeric.p100","numeric.hist"
+"Date","date",0,1,2017-12-01,2018-11-30,2018-06-01,365,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"character","holiday",0,1,NA,NA,NA,NA,7,10,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"character","functioning_day",0,1,NA,NA,NA,NA,2,3,0,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"factor","hour",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,24,"0: 365, 1: 365, 2: 365, 3: 365",NA,NA,NA,NA,NA,NA,NA,NA
+"factor","seasons",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE,4,"Spr: 2208, Sum: 2208, Aut: 2184, Win: 2160",NA,NA,NA,NA,NA,NA,NA,NA
+"numeric","rented_bike_count",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,704.602054794521,644.997467739216,0,191,504.5,1065.25,3556,"▇▃▂▁▁"
+"numeric","temperature_c",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.8829223744292,11.9448252300279,-17.8,3.5,13.7,22.5,39.4,"▂▆▆▇▂"
+"numeric","humidity_percent",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,58.2262557077626,20.3624133015656,0,42,57,74,98,"▁▅▇▇▅"
+"numeric","wind_speed_m_s",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.72490867579909,1.03629999340256,0,0.9,1.5,2.3,7.4,"▇▇▂▁▁"
+"numeric","visibility_10m",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1436.82579908676,608.298711984019,27,940,1698,2000,2000,"▂▂▂▂▇"
+"numeric","dew_point_temperature_c",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.07381278538813,13.0603693381498,-30.6,-4.7,5.1,14.8,27.2,"▂▃▇▇▆"
+"numeric","solar_radiation_mj_m2",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.569110730593607,0.868746242239153,0,0,0.01,0.93,3.52,"▇▁▁▁▁"
+"numeric","rainfall_mm",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.148687214611872,1.12819296873215,0,0,0,0,35,"▇▁▁▁▁"
+"numeric","snowfall_cm",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0750684931506849,0.436746181124992,0,0,0,0,8.8,"▇▁▁▁▁"
