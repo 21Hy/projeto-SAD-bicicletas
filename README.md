@@ -66,3 +66,9 @@ O projeto está organizado da seguinte forma:
 
 - **World Cities Dataset (Wikipedia/SimpleMaps)**:  
   Utilizado para associar cada sistema de partilha de bicicletas às respetivas coordenadas geográficas e população da cidade correspondente. Este dataset foi incluído como `worldcities.csv`, sendo essencial para a integração com mapas e cálculos de escala urbana no projeto.
+
+## Autores
+
+- **Bilal Nassib** – 300113389  
+- **Henrique Monteiro** – 300113382  
+- **Luis Raminhas** – 30011447
