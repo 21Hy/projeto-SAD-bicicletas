@@ -31,8 +31,9 @@ O projeto está organizado da seguinte forma:
 
 ## Como Executar o Projeto
 
-1. Aceder ao projeto via **Posit Cloud** ou ambiente **R local**.  
-2. Executar os scripts na seguinte ordem:
+1. Aceder ao projeto via **Posit Cloud** (recomendado) ou ambiente **R local**.
+2. Caso aceda por Posit Cloud, crie um novo projeto através deste repositório github.
+3. Executar os scripts na seguinte ordem:
 
    a. `01_scraping_sistemas_bike.R` – Web scraping da Wikipedia com lista de sistemas de bicicletas  
    b. `02_api_openweather.R` – Recolha de previsões meteorológicas via API para 5 cidades  
@@ -46,8 +47,8 @@ O projeto está organizado da seguinte forma:
    j. `07_dashboard_shiny.R` – Execução do dashboard interativo para Seul  
    k. `08_dashboard_multicidade.R` – Execução do dashboard interativo com mapa global  
 
-3. O modelo final (`modelo_final.rds`) é carregado automaticamente pelos dashboards.  
-4. Os dados meteorológicos são atualizados dinamicamente com base nos ficheiros `.csv` gerados pela API.
+4. O modelo final (`modelo_final.rds`) é carregado automaticamente pelos dashboards.  
+5. Os dados meteorológicos são atualizados dinamicamente com base nos ficheiros `.csv` gerados pela API.
 
 ---
 
